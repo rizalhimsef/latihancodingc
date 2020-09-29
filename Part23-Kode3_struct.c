@@ -24,6 +24,6 @@ int main(int argc, char const *argv[]) {
   printf("Hasil: \n" );
 
   printf("%s beralamat di %s", pacar01.nama, pacar01.alamat );
-  printf("\n yang berumur %i tahun \n", pacar01.umur );
+  printf(" dan berumur %i tahun \n", pacar01.umur );
   return 0;
 }
